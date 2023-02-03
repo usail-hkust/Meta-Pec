@@ -18,7 +18,7 @@ def init_seed(seed=None):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--dataset', default='ETTD', help='VED/ETTD')
+parser.add_argument('--dataset', default='VED', help='VED/ETTD')
 parser.add_argument('--dim', type=int, default=20)
 parser.add_argument('--car_fea_dim', type=int, default=7)
 parser.add_argument('--feature_emb_dim', type=int, default=10)
