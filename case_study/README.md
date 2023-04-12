@@ -1,21 +1,10 @@
-<center class = "half">
-    <img src="./real_1.png" width ="200"/>
-	<img src="./pred_1.png" width ="200"/>
-</center>
 
-<center><b><font size ='2'>Figure 1: Case 1, the spatial distribution of the ground truth (left) and predicted VEC (right). </font></b></left></center>
 
-<center class = "half">
-    <img src="./real_2.png" width ="200"/>
-	<img src="./pred_2.png" width ="200"/>
-</center>
-
-<center><b><font size ='2'>Figure 2: Case 2, the spatial distribution of the ground truth (left) and predicted VEC (right).</font></b></left></center>
-
-<center class = "half">
-    <img src="./real_3.png" width ="200"/>
-	<img src="./pred_3.png" width ="200"/>
-</center>
-
-<center><b><font size ='2'>Figure 3: Case 3, the spatial distribution of the ground truth (left) and predicted VEC (right).</font></b></left></center>
+|            ![](.\real_1.png)             |           ![](.\pred_1.png)           |
+| :--------------------------------------: | :-----------------------------------: |
+| **Figure 1a: Case 1, ground truth VEC.** | **Figure 1b: Case 1, predicted VEC.** |
+|            ![](.\real_2.png)             |           ![](.\pred_2.png)           |
+| **Figure 2a: Case 2, ground truth VEC.** | **Figure 2b: Case 2, predicted VEC.** |
+|            ![](.\real_3.png)             |           ![](.\pred_3.png)           |
+| **Figure 3a: Case 3, ground truth VEC.** | **Figure 3b: Case 3, predicted VEC.** |
 
