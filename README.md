@@ -8,7 +8,7 @@ The implementation of Meta-Pec.
 * learn2learn=0.1.7
 
 ## Datasets
-* **VED**: The first is a large-scale energy usage dataset of diverse vehicles in Ann Arbor, Michigan, USA, known as the vehicle energy dataset ([VED](https://doi.org/10.1145/3477495.3531935)).
+* **VED**: The first is a large-scale energy usage dataset of diverse vehicles in Ann Arbor, Michigan, USA, known as the vehicle energy dataset ([VED](https://github.com/gsoh/VED)).
 * **ETTD**: Another is an electric taxi trajectory dataset ([ETTD](http://guangwang.me/\#/data)), collected from Shenzhen, Guangdong, China.
 
 ## Usage
