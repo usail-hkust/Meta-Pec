@@ -1,5 +1,5 @@
 # Meta-Pec
-The implementation of Meta-Pec.
+The implementation of [A Preference-aware Meta-optimization Framework for Personalized Vehicle Energy Consumption Estimation](https://arxiv.org/abs/2306.14421).
 
 ## Environment
 * Python=3.7
