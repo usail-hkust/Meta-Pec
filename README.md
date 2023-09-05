@@ -20,3 +20,32 @@ Train and evaluate the model:
 ```sh
 python main.py --dataset VED
 ```
+
+### Citation
+```
+@inproceedings{DBLP:conf/kdd/LaiZL23,
+  author       = {Siqi Lai and
+                  Weijia Zhang and
+                  Hao Liu},
+  editor       = {Ambuj Singh and
+                  Yizhou Sun and
+                  Leman Akoglu and
+                  Dimitrios Gunopulos and
+                  Xifeng Yan and
+                  Ravi Kumar and
+                  Fatma Ozcan and
+                  Jieping Ye},
+  title        = {A Preference-aware Meta-optimization Framework for Personalized Vehicle
+                  Energy Consumption Estimation},
+  booktitle    = {Proceedings of the 29th {ACM} {SIGKDD} Conference on Knowledge Discovery
+                  and Data Mining, {KDD} 2023, Long Beach, CA, USA, August 6-10, 2023},
+  pages        = {4346--4356},
+  publisher    = {{ACM}},
+  year         = {2023},
+  url          = {https://doi.org/10.1145/3580305.3599767},
+  doi          = {10.1145/3580305.3599767},
+  timestamp    = {Thu, 24 Aug 2023 14:07:33 +0200},
+  biburl       = {https://dblp.org/rec/conf/kdd/LaiZL23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
